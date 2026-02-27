@@ -1,0 +1,11 @@
+data/*
+!data/data.md
+docs/*
+!docs/libraries.md
+edge_deployment/*
+# Ignore everything inside "features/"
+features/*
+!features/features_ImageNet
+image_classification/*
+notebooks/*
+sequence_model/*

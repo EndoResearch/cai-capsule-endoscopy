@@ -3,9 +3,16 @@ data/*
 docs/*
 !docs/libraries.md
 edge_deployment/*
-# Ignore everything inside "features/"
+!edge_deployment/log_mtl_jetson.txt
+!edge_deployment/log_resnet_jetson.txt
 features/*
-!features/features_ImageNet
+!features/features_ImageNet.py
+!features/features_GastroNet.py
+!features/features.md
 image_classification/*
+!image_classification/image_classification.md
 notebooks/*
+!notebooks/predict_colab.ipynb
 sequence_model/*
+!sequence_model/sequence_model.md
+

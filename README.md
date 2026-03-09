@@ -25,7 +25,7 @@ Summary:
 Note: This paper use uses open-access data.
 
 This section provides an overview of the datasets used in our study 📌.
-- 📼 Video Capsule Endoscopy-VCE for anatomical classification and anonaly classification: 80 patients (∼3.5 million frames).
+- 📼 Video Capsule Endoscopy-VCE for anatomical classification and anomaly classification: 80 patients (∼3.5 million frames).
 
 📂 For more details: Check out the [data.md](data/data.md) file for a comprehensive guide on data organization and preprocessing steps.
 
